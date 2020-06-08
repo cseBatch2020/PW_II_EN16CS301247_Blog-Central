@@ -17,7 +17,7 @@ A blog application developed in Django.
 
 $ virtualenv blogcentral
 
-$ git clone https://sherry21@bitbucket.org/sherry21/blog-project.git
+$ git clone https://github.com/shreyabarapatre/Blog-Central.git
 
 ```
 
